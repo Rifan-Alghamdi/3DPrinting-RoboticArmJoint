@@ -6,7 +6,7 @@ This repository provides all the necessary files and print settings required to 
 
 ## 📷 Model Preview
 
-![Robotic Arm Joint](./screenshot-RoboticArmJoint.jpg)
+![Robotic Arm Joint](screenshot-RoboticArmJoint.jpg)
 
 The robotic arm joint was modeled as part of a larger robotic mechanism, representing one of the critical moving parts. The design includes precision features for future assembly and actuation.
 
@@ -36,7 +36,7 @@ The robotic arm joint was modeled as part of a larger robotic mechanism, represe
 | Overhang threshold    | Default               |
 
 📎 Settings Screenshot:  
-[📄 View screenshot-RoboticArmJoint-settings.png](./screenshot-RoboticArmJoint-settings.jpg)
+[📄 View screenshot-RoboticArmJoint-settings.png](screenshot-RoboticArmJoint-settings.jpg)
 
 > 💡 The model showed overhang-related warnings during slicing, which were resolved by enabling support generation. A solid base was added automatically to improve stability and bed adhesion.
 
