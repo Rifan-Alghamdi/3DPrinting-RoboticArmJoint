@@ -60,7 +60,4 @@ PLA+ was selected due to its:
 - All files were created and tested using Onshape and EufyMake Studio.
 - The .stl file can be imported into any modern slicer compatible with FDM printers.
 - Slicing parameters were tuned to maximize strength while maintaining printability within a reasonable time.
-
-This setup is suitable for students, engineers, and robotic hobbyists who need a reliable and well-supported robotic joint part for their prototypes.
-
 ---
