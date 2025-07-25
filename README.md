@@ -17,8 +17,8 @@ The robotic arm joint was modeled as part of a larger robotic mechanism, represe
 | File Name                              | Description                                    |
 |----------------------------------------|------------------------------------------------|
 | RoboticArmJoint.stl                  | Main STL file ready for 3D printing            |
-| screenshot-RoboticArmJoint.png       | Preview of the joint inside EufyMake Studio    |
-| screenshot-RoboticArmJoint-settings.png | Screenshot showing slicer settings in detail |
+| screenshot-RoboticArmJoint.jpg      | Preview of the joint inside EufyMake Studio    |
+| screenshot-RoboticArmJoint-settings.jpg | Screenshot showing slicer settings in detail |
 
 ---
 
