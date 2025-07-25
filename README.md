@@ -1,4 +1,4 @@
-# 🤖 3DPrinting-RoboticArmJoint
+# 3DPrinting-RoboticArmJoint
 
 This repository provides all the necessary files and print settings required to 3D print a robotic arm joint using FDM (Fused Deposition Modeling) technology. The joint was originally designed in Onshape, and exported in a 3D printable .stl format. Slicing and simulation were conducted using EufyMake Studio, with a strong focus on structural stability and print quality.
 
