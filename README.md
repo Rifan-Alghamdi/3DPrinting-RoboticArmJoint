@@ -35,8 +35,8 @@ The robotic arm joint was modeled as part of a larger robotic mechanism, represe
 | Support type          | Auto generated        |
 | Overhang threshold    | Default               |
 
-📎 Settings Screenshot:  
-!<img src="./screenshot-RoboticArmJoint-settings.jpg"
+📷 Settings Screenshot:  
+<img src="./screenshot-RoboticArmJoint-settings.jpg"
 
 > 💡 The model showed overhang-related warnings during slicing, which were resolved by enabling support generation. A solid base was added automatically to improve stability and bed adhesion.
 
